@@ -1,0 +1,10 @@
+calplot
+ipython
+jupyter
+metar
+mdbtools
+numpy
+numpy-financial
+plotly
+scipy
+seaborn
